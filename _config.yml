@@ -2,8 +2,8 @@
 title: Skate Session Planner
 description: Skateboard session trainer
 theme: jekyll-theme-minimal
+baseurl: /Skate-Session-Planner
 url: https://tiagofuelber.github.io
-baseurl: ""
 
 # GitHub Pages will automatically serve markdown files
 markdown: kramdown

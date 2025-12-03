@@ -12,3 +12,13 @@ Welcome to the Skate Session Planner - your skateboard session trainer!
 This project helps skateboarders plan and track their practice sessions effectively.
 
 For more information, see the [README](README.md).
+
+## Recent Sessions
+
+{% assign sorted_sessions = site.sessions | sort: 'date' | reverse %}
+{% for session in sorted_sessions %}
+
+- [{{ session.title | default: session.name }}]({{ session.url }})
+  {% endfor %}
+
+[View all sessions →](/sessions/)

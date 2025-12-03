@@ -18,7 +18,7 @@ For more information, see the [README](README.md).
 {% assign sorted_sessions = site.sessions | sort: 'date' | reverse %}
 {% for session in sorted_sessions %}
 
-- [{{ session.title | default: session.name }}]({{ session.url }})
+- [{{ session.title | default: session.name }}]({{ site.baseurl }}{{ session.url }})
   {% endfor %}
 
-[View all sessions →](/sessions/)
+[View all sessions →]({{ site.baseurl }}/sessions/)

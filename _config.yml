@@ -1,0 +1,20 @@
+# GitHub Pages Configuration
+title: Skate Session Planner
+description: Skateboard session trainer
+theme: jekyll-theme-minimal
+
+# GitHub Pages will automatically serve markdown files
+markdown: kramdown
+
+# Plugins for GitHub Pages
+plugins:
+  - jekyll-relative-links
+
+# Configure relative links
+relative_links:
+  enabled: true
+  collections: true
+
+# Include README.md as index
+include:
+  - README.md

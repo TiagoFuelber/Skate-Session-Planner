@@ -18,3 +18,9 @@ relative_links:
 # Include README.md as index
 include:
   - README.md
+
+# Collections for automatic session listing
+collections:
+  sessions:
+    output: true
+    permalink: /sessions/:name/

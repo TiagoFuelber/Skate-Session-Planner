@@ -4,7 +4,6 @@ description: Skateboard session trainer
 theme: jekyll-theme-minimal
 
 # GitHub Pages will automatically serve markdown files
-# The README.md will be served as the homepage
 markdown: kramdown
 
 # Plugins for GitHub Pages

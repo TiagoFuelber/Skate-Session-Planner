@@ -26,3 +26,4 @@ echo "1. Open assets/icon-generator.html in your browser to generate PNG icons"
 echo "2. Or use an online tool like https://realfavicongenerator.net/"
 echo "3. Or convert SVGs to PNGs using ImageMagick: convert icon-512x512.svg icon-512x512.png"
 
+

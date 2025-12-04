@@ -67,3 +67,4 @@ Place them all in the `assets/icons/` directory.
 - Subsequent visits will work offline
 - To update the cache, change the `CACHE_NAME` version in `sw.js`
 
+

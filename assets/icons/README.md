@@ -28,3 +28,4 @@ You can also use online tools like:
 Upload a 512x512 icon and it will generate all the required sizes.
 
 
+

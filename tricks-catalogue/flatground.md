@@ -16,9 +16,19 @@
 
 - Heelflip
 
-*(These two unlock almost every flip variation later.)*
+_(These two unlock almost every flip variation later.)_
 
-## 3 --- Early Variations (moderately hard but very learnable)
+## 5 --- Shove/Spin Progressions (building board control)
+
+- 360 pop shove-it
+
+- 360 frontside shove-it
+
+- Bigspin
+
+- FS bigspin
+
+## 4 --- Early Variations (moderately hard but very learnable)
 
 - Varial kickflip
 
@@ -32,19 +42,9 @@
 
 - BS heel
 
-## 4 --- Shove/Spin Progressions (building board control)
-
-- 360 pop shove-it
-
-- 360 frontside shove-it
-
-- Bigspin
-
-- FS bigspin
-
 ## 5 --- Intermediate--Advanced Core Tricks
 
-*These are the "real street skater" benchmarks.*
+_These are the "real street skater" benchmarks._
 
 - Tre flip (360 kickflip)
 

@@ -68,3 +68,4 @@ Place them all in the `assets/icons/` directory.
 - To update the cache, change the `CACHE_NAME` version in `sw.js`
 
 
+

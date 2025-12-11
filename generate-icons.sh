@@ -27,3 +27,4 @@ echo "2. Or use an online tool like https://realfavicongenerator.net/"
 echo "3. Or convert SVGs to PNGs using ImageMagick: convert icon-512x512.svg icon-512x512.png"
 
 
+
